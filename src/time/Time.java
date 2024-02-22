@@ -21,9 +21,6 @@ import javax.swing.JOptionPane;
  */
 public class Time
 {
-	
-	
-	
 	public static void main(String[] args) 
 	{
 		int totalSeconds = getTotalSeconds("10:10:10");
